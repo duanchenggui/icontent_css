@@ -1,0 +1,106 @@
+
+/* 原文 */
+.original_text{
+    font-family: PMingLiU,NSimSun,SimSun;
+    border-top: 1px solid #C0DCC0;
+    padding-top: 10px;
+    color: red;
+    font-size: large;
+    font-weight: bold;
+    line-height: 1.6;
+	}
+
+/* 譯文 */
+.translation_text{
+    line-height: 150%;
+    border-top: 1px solid #C0DCC0;
+    padding-top: 10px;
+    font-size: large;
+    letter-spacing: 1px;
+    font-family: "Times New Roman";
+}
+
+/* 英文 */
+.english_text{
+    line-height: 150%;
+    border-top: 1px solid #C0DCC0;
+    padding-top: 10px;
+    font-size: large;
+    letter-spacing: 1px;
+    font-family: "Times New Roman";
+    text-indent:0!important;
+}
+
+/* 賞析 */
+.shangxi{
+    line-height: 150%;
+    border-top: 1px solid #C0DCC0;
+    padding-top: 10px;
+    font-size: large;
+    letter-spacing: 1px;
+    font-family: "Times New Roman";
+}
+
+/* 注釋 */
+.zhushi{
+    line-height: 150%;
+    border-top: 1px solid #C0DCC0;
+    padding-top: 10px;
+    font-size: large;
+    letter-spacing: 1px;
+    font-family: "Times New Roman";
+}
+
+/* 古代故事 */
+.old_story{
+    line-height: 150%;
+    border-top: 1px solid #C0DCC0;
+    padding-top: 10px;
+    font-size: large;
+    letter-spacing: 1px;
+    font-family: "Times New Roman";
+}
+
+/* 現代故事 */
+.modern_story{
+    line-height: 150%;
+    border-top: 1px solid #C0DCC0;
+    padding-top: 10px;
+    font-size: large;
+    letter-spacing: 1px;
+    font-family: "Times New Roman";
+}
+
+/* 延伸閱讀 */
+.extend_text{
+    line-height: 150%;
+    border-top: 1px solid #C0DCC0;
+    padding-top: 10px;
+    font-size: large;
+    letter-spacing: 1px;
+    font-family: "Times New Roman";
+}
+
+/* 文獻 */
+.literature{
+    line-height: 150%;
+    border-top: 1px solid #C0DCC0;
+    padding-top: 10px;
+    font-size: large;
+    letter-spacing: 1px;
+    font-family: "Times New Roman";
+}
+
+/* 附錄 */
+.appendix{
+    line-height: 150%;
+    border-top: 1px solid #C0DCC0;
+    padding-top: 10px;
+    font-size: large;
+    letter-spacing: 1px;
+    font-family: "Times New Roman";
+}
+
+
+
+
