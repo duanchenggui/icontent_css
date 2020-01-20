@@ -104,3 +104,32 @@
     font-family: "Times New Roman";
 }
 
+/* icontent 圖片 */
+.image{
+    line-height: 150%;
+    border-top: 1px solid #45B39D;
+    padding-top: 10px;
+    font-size: large;
+    letter-spacing: 1px;
+    font-family: "Times New Roman";
+}
+
+/* icontent 視頻 */
+.video{
+    line-height: 150%;
+    border-top: 1px solid #D7BDE2;
+    padding-top: 10px;
+    font-size: large;
+    letter-spacing: 1px;
+    font-family: "Times New Roman";
+}
+
+/* icontent 音頻 */
+.audio{
+    line-height: 150%;
+    border-top: 1px solid #F9E79F;
+    padding-top: 10px;
+    font-size: large;
+    letter-spacing: 1px;
+    font-family: "Times New Roman";
+}
