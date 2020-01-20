@@ -1,0 +1,106 @@
+
+/* 添加的路径为（以Essential 主题为例： 网站管理→外观→主题风格→Essential→常用→CustomCSS */
+
+
+/* icontent 原文 */
+.original_text{
+    font-family: PMingLiU,NSimSun,SimSun;
+    border-top: 1px solid #C0DCC0;
+    padding-top: 10px;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    line-height: 1.6;
+	}
+
+/* icontent 譯文 */
+.translation_text{
+    line-height: 150%;
+    border-top: 1px solid #e2c982;
+    padding-top: 10px;
+    font-size: large;
+    letter-spacing: 1px;
+    font-family: "Times New Roman";
+}
+
+/* icontent 英文 */
+.english_text{
+    line-height: 150%;
+    border-top: 1px solid #ef8492;
+    padding-top: 10px;
+    font-size: large;
+    letter-spacing: 1px;
+    font-family: "Times New Roman";
+    text-indent:0!important;
+}
+
+/* icontent 賞析 */
+.shangxi{
+    line-height: 150%;
+    border-top: 1px solid #c37ec7;
+    padding-top: 10px;
+    font-size: large;
+    letter-spacing: 1px;
+    font-family: "Times New Roman";
+}
+
+/* icontent 注釋 */
+.zhushi{
+    line-height: 150%;
+    border-top: 1px solid #ad9c61;
+    padding-top: 10px;
+    font-size: large;
+    letter-spacing: 1px;
+    font-family: "Times New Roman";
+}
+
+/* icontent 古代故事 */
+.old_story{
+    line-height: 150%;
+    border-top: 1px solid #FDEDEC;
+    padding-top: 10px;
+    font-size: large;
+    letter-spacing: 1px;
+    font-family: "Times New Roman";
+}
+
+/* icontent 現代故事 */
+.modern_story{
+    line-height: 150%;
+    border-top: 1px solid #FAE5D3;
+    padding-top: 10px;
+    font-size: large;
+    letter-spacing: 1px;
+    font-family: "Times New Roman";
+}
+
+/* icontent 延伸閱讀 */
+.extend_text{
+    line-height: 150%;
+    border-top: 1px solid #BFC9CA;
+    padding-top: 10px;
+    font-size: large;
+    letter-spacing: 1px;
+    font-family: "Times New Roman";
+}
+
+/* icontent 文獻 */
+.literature{
+    line-height: 150%;
+    border-top: 1px solid #F5B7B1;
+    padding-top: 10px;
+    font-size: large;
+    letter-spacing: 1px;
+    font-family: "Times New Roman";
+}
+
+/* icontent 附錄 */
+.appendix{
+    line-height: 150%;
+    border-top: 1px solid #C0DCC0;
+    padding-top: 10px;
+    font-size: large;
+    letter-spacing: 1px;
+    font-family: "Times New Roman";
+}
+
