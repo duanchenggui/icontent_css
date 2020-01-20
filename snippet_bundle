@@ -14,11 +14,12 @@
 <p class="original_title" style="font-size: x-large;">附錄</p><p class="appendix">{{附錄}}</p>
 
 <p class="original_title" style="font-size: x-large;">圖片</p><p class="image""><span lang="ZH-CN">{{Image title}}<br></span></p>
-<a data-fancybox="" href="{{Image url}}"><img src="{{Image url}}" alt="" width="96%" height="249" role="presentation" class="img-responsive atto_image_button_text-bottom">
+<a data-fancybox="" href="{{Image url}}"><img src="{{圖片URL}}" alt="" width="96%" height="249" role="presentation" class="img-responsive atto_image_button_text-bottom">
 </a>
 
-<p class="original_title" style="font-size: x-large;">視頻</p><p class="video">{{視頻嵌入代碼}}</p>
+<p class="original_title" style="font-size: x-large;">視頻</p>
+<p class="video"><video controls="true"><source src="{{視頻URL}}">video</video></p>
 
 <p class="original_title" style="font-size: x-large;">音頻</p>
-<p class="audio"><audio controls="true"><source src="{{音頻URL}}">audio</audio><br></p>
+<p class="audio"><audio controls="true"><source src="{{音頻URL}}">audio</audio></p>
 
