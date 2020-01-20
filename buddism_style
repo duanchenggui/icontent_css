@@ -16,7 +16,7 @@
 /* icontent 譯文 */
 .translation_text{
     line-height: 150%;
-    border-top: 1px solid #C0DCC0;
+    border-top: 1px solid #e2c982;
     padding-top: 10px;
     font-size: large;
     letter-spacing: 1px;
@@ -26,7 +26,7 @@
 /* icontent 英文 */
 .english_text{
     line-height: 150%;
-    border-top: 1px solid #C0DCC0;
+    border-top: 1px solid #ef8492;
     padding-top: 10px;
     font-size: large;
     letter-spacing: 1px;
@@ -37,7 +37,7 @@
 /* icontent 賞析 */
 .shangxi{
     line-height: 150%;
-    border-top: 1px solid #C0DCC0;
+    border-top: 1px solid #c37ec7;
     padding-top: 10px;
     font-size: large;
     letter-spacing: 1px;
@@ -47,7 +47,7 @@
 /* icontent 注釋 */
 .zhushi{
     line-height: 150%;
-    border-top: 1px solid #C0DCC0;
+    border-top: 1px solid #ad9c61;
     padding-top: 10px;
     font-size: large;
     letter-spacing: 1px;
@@ -57,7 +57,7 @@
 /* icontent 古代故事 */
 .old_story{
     line-height: 150%;
-    border-top: 1px solid #C0DCC0;
+    border-top: 1px solid #FDEDEC;
     padding-top: 10px;
     font-size: large;
     letter-spacing: 1px;
@@ -67,7 +67,7 @@
 /* icontent 現代故事 */
 .modern_story{
     line-height: 150%;
-    border-top: 1px solid #C0DCC0;
+    border-top: 1px solid #FAE5D3;
     padding-top: 10px;
     font-size: large;
     letter-spacing: 1px;
@@ -77,7 +77,7 @@
 /* icontent 延伸閱讀 */
 .extend_text{
     line-height: 150%;
-    border-top: 1px solid #C0DCC0;
+    border-top: 1px solid #BFC9CA;
     padding-top: 10px;
     font-size: large;
     letter-spacing: 1px;
@@ -87,7 +87,7 @@
 /* icontent 文獻 */
 .literature{
     line-height: 150%;
-    border-top: 1px solid #C0DCC0;
+    border-top: 1px solid #F5B7B1;
     padding-top: 10px;
     font-size: large;
     letter-spacing: 1px;
@@ -103,7 +103,4 @@
     letter-spacing: 1px;
     font-family: "Times New Roman";
 }
-
-
-
 
