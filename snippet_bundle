@@ -1,5 +1,8 @@
 
-<!--这是用于iContent 的Snippet的Atto bundle文件代码-->
+<!--
+这是用于iContent 的Snippet的Atto bundle文件代码；
+添加路径为：网站管理→插件→文本编辑器→Atto HTML 编辑器→Snippet（Atto）
+//-->
 
 <p class="original_title" style="font-size: x-large;">譯文</p><p class="translation_text">{{譯文}}</p>
 <p class="original_title" style="font-size: x-large;">賞析</p><p class="shangxi">{{賞析}}</p>

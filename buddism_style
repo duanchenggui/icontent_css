@@ -1,4 +1,7 @@
 
+/* 添加的路径为（以Essential 主题为例： 网站管理→外观→主题风格→Essential→常用→CustomCSS */
+
+
 /* icontent 原文 */
 .original_text{
     font-family: PMingLiU,NSimSun,SimSun;
