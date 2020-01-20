@@ -4,7 +4,7 @@
     font-family: PMingLiU,NSimSun,SimSun;
     border-top: 1px solid #C0DCC0;
     padding-top: 10px;
-    color: red;
+    color: black;
     font-size: large;
     font-weight: bold;
     line-height: 1.6;
