@@ -1,6 +1,11 @@
 
 /* 添加的路径为（以Essential 主题为例： 网站管理→外观→主题风格→Essential→常用→CustomCSS */
 
+/* Title 標題 */
+.text_title{
+	font-family:Heiti;
+	font-size: x-large;
+	}
 
 /* icontent 原文 */
 .original_text{

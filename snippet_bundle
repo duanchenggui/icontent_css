@@ -4,22 +4,22 @@
 添加路径为：网站管理→插件→文本编辑器→Atto HTML 编辑器→Snippet（Atto）
 //-->
 
-<p class="original_title" style="font-size: x-large;">譯文</p><p class="translation_text">{{譯文}}</p>
-<p class="original_title" style="font-size: x-large;">賞析</p><p class="shangxi">{{賞析}}</p>
-<p class="original_title" style="font-size: x-large;">注釋</p><p class="zhushi">{{注釋}}</p>
-<p class="original_title" style="font-size: x-large;">古代故事</p><p class="old_story">{{古代故事}}</p>
-<p class="original_title" style="font-size: x-large;">現代故事</p><p class="modern_story">{{現代故事}}</p>
-<p class="original_title" style="font-size: x-large;">延伸閱讀</p><p class="extend_text">{{延伸閱讀}}</p>
-<p class="original_title" style="font-size: x-large;">文獻</p><p class="literature">{{文獻}}</p>
-<p class="original_title" style="font-size: x-large;">附錄</p><p class="appendix">{{附錄}}</p>
+<p class="text_title">譯文</p><p class="translation_text">{{譯文}}</p>
+<p class="text_title">賞析</p><p class="shangxi">{{賞析}}</p>
+<p class="text_title">注釋</p><p class="zhushi">{{注釋}}</p>
+<p class="text_title">古代故事</p><p class="old_story">{{古代故事}}</p>
+<p class="text_title">現代故事</p><p class="modern_story">{{現代故事}}</p>
+<p class="text_title">延伸閱讀</p><p class="extend_text">{{延伸閱讀}}</p>
+<p class="text_title">文獻</p><p class="literature">{{文獻}}</p>
+<p class="text_title">附錄</p><p class="appendix">{{附錄}}</p>
 
-<p class="original_title" style="font-size: x-large;">圖片</p><p class="image""><span lang="ZH-CN">{{Image title}}<br></span></p>
+<p class="text_title">圖片</p><p class="image""><span lang="ZH-CN">{{Image title}}<br></span></p>
 <a data-fancybox="" href="{{Image url}}"><img src="{{圖片URL}}" alt="" width="96%" height="249" role="presentation" class="img-responsive atto_image_button_text-bottom">
 </a>
 
-<p class="original_title" style="font-size: x-large;">視頻</p>
+<p class="text_title">視頻</p>
 <p class="video"><video controls="true"><source src="{{視頻URL}}">video</video></p>
 
-<p class="original_title" style="font-size: x-large;">音頻</p>
+<p class="text_title">音頻</p>
 <p class="audio"><audio controls="true"><source src="{{音頻URL}}">audio</audio></p>
 
